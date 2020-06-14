@@ -1,0 +1,15 @@
+C:\Users\hihi\source\repos\Plants vs Zombies Trainer\Plants vs Zombies Trainer\bin\Debug\netcoreapp3.1\Plants vs Zombies Trainer.exe
+C:\Users\hihi\source\repos\Plants vs Zombies Trainer\Plants vs Zombies Trainer\bin\Debug\netcoreapp3.1\Plants vs Zombies Trainer.deps.json
+C:\Users\hihi\source\repos\Plants vs Zombies Trainer\Plants vs Zombies Trainer\bin\Debug\netcoreapp3.1\Plants vs Zombies Trainer.runtimeconfig.json
+C:\Users\hihi\source\repos\Plants vs Zombies Trainer\Plants vs Zombies Trainer\bin\Debug\netcoreapp3.1\Plants vs Zombies Trainer.runtimeconfig.dev.json
+C:\Users\hihi\source\repos\Plants vs Zombies Trainer\Plants vs Zombies Trainer\bin\Debug\netcoreapp3.1\Plants vs Zombies Trainer.dll
+C:\Users\hihi\source\repos\Plants vs Zombies Trainer\Plants vs Zombies Trainer\bin\Debug\netcoreapp3.1\Plants vs Zombies Trainer.pdb
+C:\Users\hihi\source\repos\Plants vs Zombies Trainer\Plants vs Zombies Trainer\obj\Debug\netcoreapp3.1\Plants vs Zombies Trainer.csprojAssemblyReference.cache
+C:\Users\hihi\source\repos\Plants vs Zombies Trainer\Plants vs Zombies Trainer\obj\Debug\netcoreapp3.1\Plants_vs_Zombies_Trainer.Form1.resources
+C:\Users\hihi\source\repos\Plants vs Zombies Trainer\Plants vs Zombies Trainer\obj\Debug\netcoreapp3.1\Plants vs Zombies Trainer.csproj.GenerateResource.cache
+C:\Users\hihi\source\repos\Plants vs Zombies Trainer\Plants vs Zombies Trainer\obj\Debug\netcoreapp3.1\Plants vs Zombies Trainer.AssemblyInfoInputs.cache
+C:\Users\hihi\source\repos\Plants vs Zombies Trainer\Plants vs Zombies Trainer\obj\Debug\netcoreapp3.1\Plants vs Zombies Trainer.AssemblyInfo.cs
+C:\Users\hihi\source\repos\Plants vs Zombies Trainer\Plants vs Zombies Trainer\obj\Debug\netcoreapp3.1\Plants vs Zombies Trainer.csproj.CoreCompileInputs.cache
+C:\Users\hihi\source\repos\Plants vs Zombies Trainer\Plants vs Zombies Trainer\obj\Debug\netcoreapp3.1\Plants vs Zombies Trainer.dll
+C:\Users\hihi\source\repos\Plants vs Zombies Trainer\Plants vs Zombies Trainer\obj\Debug\netcoreapp3.1\Plants vs Zombies Trainer.pdb
+C:\Users\hihi\source\repos\Plants vs Zombies Trainer\Plants vs Zombies Trainer\obj\Debug\netcoreapp3.1\Plants vs Zombies Trainer.genruntimeconfig.cache
